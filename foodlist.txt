@@ -1,0 +1,19 @@
+kfcstart
+chicken 300
+pizza 400
+pasta 150
+kfcend
+bfcstart
+burger 200
+pepsi 70
+pizza 500
+bfcend
+mfcstart
+pizza 500
+pasta 350
+pepsi -1
+mfcend
+bfcstart
+500 -1
+nullstart
+himu 200

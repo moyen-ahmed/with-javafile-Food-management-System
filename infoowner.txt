@@ -1,0 +1,27 @@
+irfan name Irfan
+irfan phone 01834567890
+irfan restaurant kfc
+irfan address Dhaka
+irfan openting 10 GMT(+6)
+irfan closing 23 GMT(+6)
+irfan voucher kfc100
+irfan minimumorder 100
+irfanall Irfan Dhaka 01834567890 kfc 10 GMT(+6) 23 GMT(+6) kfc100 100
+pial name pial
+pial phone 01912345678
+pial restaurant bfc
+pial address bashundhara
+pial openting 10 GMT(+6)
+pial closing 23 GMT(+6)
+pial voucher bfc200
+pial minimumorder 200
+pialall pial bashundhara 01912345678 bfc 10 GMT(+6) 23 GMT(+6) bfc200 200
+abir name Abir
+abir phone 01728849636
+abir restaurant mfc
+abir address Dhaka
+abir openting 10 GMT(+6)
+abir closing 23 GMT(+6)
+abir voucher free100
+abir minimumorder 50
+abirall Abir Dhaka 01728849636 mfc 10 GMT(+6) 23 GMT(+6) free100 50

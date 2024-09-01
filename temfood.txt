@@ -1,0 +1,3 @@
+burger 200 
+pepsi 70 
+pizza 500 
